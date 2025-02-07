@@ -76,15 +76,20 @@ section > p{
     
     font-family: "Open Sans", serif;
     font-optical-sizing: auto;
-    font-weight: 400;
+    font-weight: 200;
     font-style: italic;
+    margin: 5px
 }
-
+section p b{
+    font-size: x-large;
+}
 
 h2{
 font-size:2em;
 font-family: "Montserrat", serif;
     font-weight: bold;
+    padding: 5px;
+    margin: 7px
 
 }
 
